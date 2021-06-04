@@ -15,6 +15,6 @@ public class Sb0061Application {
 	@GetMapping
 	public String sayHello()
 	{
-		return "Hello Jenkins........";
+		return "Ok so this code is runnung";
 	}
 }
